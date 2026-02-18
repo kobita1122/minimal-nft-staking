@@ -1,0 +1,10 @@
+{
+  "name": "minimal-nft-staking",
+  "version": "1.0.0",
+  "description": "ERC-721 staking logic with ERC-20 rewards",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
